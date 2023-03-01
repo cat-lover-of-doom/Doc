@@ -1,4 +1,4 @@
 @echo off
 :loop
-echo hihihihihihi
+echo hohohoho
 goto loop
